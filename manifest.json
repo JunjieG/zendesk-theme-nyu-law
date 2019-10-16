@@ -1,7 +1,7 @@
 {
-  "name": "Copenhagen",
-  "author": "Zendesk",
-  "version": "1.8.0",
+  "name": "NYU_Law",
+  "author": "Junjie Ge",
+  "version": "1.0.0",
   "api_version": 1,
   "default_locale": "en-us",
   "settings": [
